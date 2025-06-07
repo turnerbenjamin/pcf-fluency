@@ -9,7 +9,7 @@ components with Power Apps we can use the Fluent UI React Component Library.
 
 This is straight-forward and well described in the following article:
 
-<https://dianabirkelbach.wordpress.com/2024/01/13/standard-or-custom-theming-for-pcf-using-fluent-ui-v9/https://react.fluentui.dev/?path=/docs/concepts-introduction--docs>
+<https://dianabirkelbach.wordpress.com/2024/01/13/standard-or-custom-theming-for-pcf-using-fluent-ui-v9>
 
 ```ts
 const contextTheme = context.fluentDesignLanguage;
